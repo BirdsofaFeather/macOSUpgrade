@@ -177,7 +177,7 @@ acPowerWaitTimer="0"
 declare -a sysRequirementErrors=()
 
 ## Icon to display during the AC Power warning
-warnIcon="/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AlertCautionIcon.icns"
+warnIcon="/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AlertCautionNoteIcon.icns"
 
 ## Icon to display when errors are found
 errorIcon="/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AlertStopIcon.icns"
